@@ -52,3 +52,27 @@
 - [Web brush podcast](https://webrush.io/episodes)
 - [Shop talk show podcast](https://shoptalkshow.com/)
 - [The CSS Podcast](https://pod.link/thecsspodcast)
+
+## UI Frameworks
+
+These are css frameworks/libraries to help you build your projects' UI quicker.
+
+### Material
+
+**Examples**:
+- https://material-ui.com/components/buttons/
+- https://material-ui.com/components/data-grid/demo/
+
+### Bootstrap
+
+**Examples**:
+https://getbootstrap.com/docs/5.0/examples/sidebars/
+https://getbootstrap.com/docs/5.0/examples/carousel/
+https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/
+
+
+**Official link**: https://getbootstrap.com/
+
+### Font awesome
+
+https://fontawesome.com/
